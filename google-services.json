@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "624321124005",
+    "firebase_url": "https://indiaframe-fc1ce.firebaseio.com",
+    "project_id": "indiaframe-fc1ce",
+    "storage_bucket": "indiaframe-fc1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624321124005:android:0272ae645563d0ae",
+        "android_client_info": {
+          "package_name": "techiecoders.indiaframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624321124005-o4ktf0o238biu26e9bqur3vctj39u3io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techiecoders.indiaframe",
+            "certificate_hash": "18be7866dd2203f16d29e4b21d3f0112940017e9"
+          }
+        },
+        {
+          "client_id": "624321124005-cntlhqdfjf2ar5v9dmuv3opukgs7g5ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl6dhkRXvJ7T6f0aZxG9M6u574zT7zTx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624321124005-cntlhqdfjf2ar5v9dmuv3opukgs7g5ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
